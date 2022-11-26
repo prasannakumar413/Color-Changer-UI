@@ -1,0 +1,19 @@
+body{
+    background-color: aliceblue;
+}
+.drop{
+    margin: 100px 890px 100px 120px;
+    border: 10px;
+    border-radius: 0.2cm;
+    padding: 7px;
+    height:160px;
+    width: 400px;
+    bottom: 200px;
+    border-color: black;
+
+}
+.sl{
+    padding: 10px;
+    width: 150px;
+    height: 50px;
+}
